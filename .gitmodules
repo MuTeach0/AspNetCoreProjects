@@ -6,3 +6,7 @@
 	path = PBAuthorization
 	url = https://github.com/MuTeach0/PBAuthorization.git
 	branch = main
+[submodule "UserManagementIdentity"]
+	path = UserManagementIdentity
+	url = https://github.com/MuTeach0/UserManagementIdentity.git
+	branch = main
