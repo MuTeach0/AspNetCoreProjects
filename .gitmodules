@@ -1,0 +1,4 @@
+[submodule "DotNetCoreCRUD"]
+	path = DotNetCoreCRUD
+	url = https://github.com/MuTeach0/DotNetCoreCRUD.git
+	branch = main
