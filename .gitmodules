@@ -2,3 +2,7 @@
 	path = DotNetCoreCRUD
 	url = https://github.com/MuTeach0/DotNetCoreCRUD.git
 	branch = main
+[submodule "PBAuthorization"]
+	path = PBAuthorization
+	url = https://github.com/MuTeach0/PBAuthorization.git
+	branch = main
